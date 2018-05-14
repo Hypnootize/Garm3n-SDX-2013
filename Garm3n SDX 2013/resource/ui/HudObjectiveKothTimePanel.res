@@ -22,22 +22,13 @@
 		
 		if_match
 		{
-			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
-			"ypos"					"0"
-			"zpos"					"10"
-			"delta_item_x"			"10"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
-			"PositiveColor"			"0 255 0 255"
-			"NegativeColor"			"255 0 0 255"
-			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontSmallest"
+			"xpos"			"c-62"
+			"ypos"			"10"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Garm3n19Spec"
 			"fgcolor"		"Garm3nWhite"
@@ -48,18 +39,12 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"proportionaltoparent"	"1"
-				"xpos"			"9"
-				"ypos"			"12"
-				"tall"			"10"
-				"wide"			"35"
 				"font"			"Garm3n12Spec"
-			
 			}
 		}	
 	}
@@ -78,21 +63,13 @@
 		
 		if_match
 		{
-			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
-			"ypos"					"0"
-			"delta_item_x"			"50"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
-			"PositiveColor"			"0 255 0 255"
-			"NegativeColor"			"255 0 0 255"
-			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontSmallest"
+			"xpos"			"c-27"
+			"ypos"			"10"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Garm3n19Spec"
 			"fgcolor"		"Garm3nWhite"
@@ -103,18 +80,12 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"proportionaltoparent"	"1"
-				"xpos"			"45"
-				"ypos"			"12"
-				"wide"			"35"
-				"tall"			"10"
-				"font"			"Garm3n12Spec"
-			
+				"font"		"Garm3n12Spec"
 			}
 		}
 	}

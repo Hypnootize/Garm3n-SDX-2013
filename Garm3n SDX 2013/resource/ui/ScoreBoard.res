@@ -959,62 +959,6 @@
 			}
 		}
 		
-		"DamageLabel"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"DamageLabel"
-			"font"			"Garm3n10Spec"
-			"font_minmode"		"ScoreboardVerySmall"
-			"labelText"		"#TF_ScoreBoard_DamageLabel"
-			"fgcolor"			"Garm3nWhite"
-			"textAlignment"		"east"
-			"xpos"			"c-345"
-			"ypos"			"r127"
-			"ypos_minmode"		"r141"
-			"zpos"			"3"
-			"wide"			"178"
-			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
-
-			if_mvm
-			{
-				"font"		"Garm3n10Spec"
-				"xpos"		"c-75"
-				"ypos"		"r162"
-			}
-		}
-		
-		"DamageFix"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"DamageFix"
-			"font"			"Garm3n10Spec"
-			"labelText"		"%damage%"
-			"textAlignment"	"west"
-			"xpos"			"c-163"
-			"ypos"			"r127"
-			"zpos"			"3"
-			"wide"			"178"
-			"tall"			"15"
-			
-			"font_minmode"	"ScoreboardVerySmall"
-			"ypos_minmode"	"r141"
-			
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"Garm3nWhite"
-
-			if_mvm
-			{
-				"font"			"Garm3n10Spec"
-				"xpos"			"c-274"
-				"ypos"			"r127"
-			}	
-		}
-		
 		"CapturesLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -1515,13 +1459,13 @@
 				"ypos"		"r132"
 			}
 		}
-		"BonusLabel"
+		"DamageLabel"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"BonusLabel"
+			"fieldName"		"DamageLabel"
 			"font"			"Garm3n10Spec"
 			"font_minmode"		"ScoreboardVerySmall"
-			"labelText"		"#TF_ScoreBoard_BonusLabel"
+			"labelText"		"#TF_ScoreBoard_DamageLabel"
 			"fgcolor"		"Garm3nWhite"
 			"textAlignment"		"west"
 			"xpos"			"c100"
@@ -1540,13 +1484,13 @@
 				"ypos"		"r122"
 			}
 		}
-		"BonusFix"
+		"DamageFix"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"BonusFix"
+			"fieldName"		"DamageFix"
 			"font"			"Garm3n10Spec"
 			"font_minmode"		"ScoreboardVerySmall"
-			"labelText"		"%bonus%"
+			"labelText"		"%damage%"
 			"fgcolor"		"Garm3nWhite"
 			"textAlignment"	"east"
 			"xpos"			"c99"
