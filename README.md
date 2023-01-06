@@ -1,12 +1,7 @@
 # Garm3n-SDX-2013
-Screenshots: https://imgur.com/a/ZWTQm
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/ZWTQm)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 255
-
-hud_combattext_green 185
-
-hud_combattext_blue 0
+![](https://i.imgur.com/8WvJ9mt.jpg)

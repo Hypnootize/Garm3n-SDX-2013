@@ -945,7 +945,7 @@
 		{
 			"xpos"			"c-20"
 			"ypos"			"r50"
-			"visible"		"1"
+			"visible"		"0"
 		}
 		
 		
@@ -985,7 +985,7 @@
 		{
 			"xpos"			"c-20"
 			"ypos"			"r50"
-			"visible"		"1"
+			"visible"		"0"
 		}
 		
 		if_competitive
